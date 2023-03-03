@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 [![district10's GitHub stats](https://github-readme-stats.vercel.app/api?username=district10)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on [cubao](https://github.com/cubao)
+- 🔭 I’m currently working on **cubao** ([code](https://github.com/cubao), [docs](https://cubao.readthedocs.io))
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on 3D visualization, creative coding
 - 🤔 I’m looking for help with React/Vue
